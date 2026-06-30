@@ -16,3 +16,7 @@ Research-art exploring:
 If something here feels unfinished, strange, unstable, or alive —
 that reaction itself may be meaningful data.
 
+## Elsewhere
+
+- [X / @SouBana7](https://x.com/SouBana7)
+

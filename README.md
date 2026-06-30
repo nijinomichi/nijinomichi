@@ -18,5 +18,5 @@ that reaction itself may be meaningful data.
 
 ## Elsewhere
 
-- [X / @SouBana7](https://x.com/SouBana7)
+- [X / @soubana7s](https://x.com/soubana7s)
 

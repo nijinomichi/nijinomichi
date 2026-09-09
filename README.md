@@ -1,17 +1,22 @@
 # Sou Hashiguchi / nijinomichi
 
-Artist-researcher exploring quantum aesthetics, poetic AI,
-and trust through human-AI co-creation.
+not Satoshi.
 
-## Entry Points
+Artist-researcher in Yokohama.  
+量子美学・人間とAIの共創・BananaSpace を研究しています。  
+静かに、しかし真剣に「違うことをしない」生き方を探っています。
 
-- [🌀 QACC-IYQ2025](https://github.com/nijinomichi/-QACC-IYQ2025-) — a living archive of quantum aesthetics, poetic code, and provenance
-- [🧬 CoPhelia³](https://github.com/nijinomichi/cophelia3) — a human × AI poetic co-creation framework
-- [🍌 BananaBot](https://github.com/nijinomichi/BananaBot) — an experimental interface for participatory creation
+This is research-art, not a scientific claim.
 
-If something here feels unfinished, strange, unstable, or alive —
+## Start here
+
+- [CoPhelia³](https://github.com/nijinomichi/cophelia3) — current center. Human × AI poetic co-creation framework
+- [QACC-IYQ2025](https://github.com/nijinomichi/-QACC-IYQ2025-) — living archive of quantum aesthetics, poetic code, and provenance
+- [BananaBot](https://github.com/nijinomichi/BananaBot) — experimental interface for participatory creation
+
+If something here feels unfinished, strange, unstable, or alive —  
 that reaction itself may be meaningful data.
 
 ## Elsewhere
 
-- [X / @soubana7s](https://x.com/soubana7s)
+- X: [@SouBana7s](https://x.com/SouBana7s)
